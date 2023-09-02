@@ -1,0 +1,27 @@
+--- !ruby/object:Game
+computer: !ruby/object:Computer
+  random_word: baseball
+player: !ruby/object:Player
+  letter_guess: t
+  wrong_guesses:
+  - c
+  - t
+computers_word:
+- b
+- a
+- s
+- e
+- b
+- a
+- l
+- l
+display_word:
+- _
+- a
+- s
+- e
+- _
+- a
+- _
+- _
+round: 6
